@@ -1,0 +1,4 @@
+faster-whisper
+transformers
+firebase-admin
+gradio
